@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.14)  27 MAR 2022 15:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.14)  28 MAR 2022 19:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -896,104 +896,7 @@ Package pdftex.def Info: ust2.jpg  used on input line 117.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./ust1.jpg>]
-
-Package mathtext Warning: letter `cyrk' used in math mode on input line 147.
-
-
-Package mathtext Warning: letter `CYRP' used in math mode on input line 147.
-
-
-Package mathtext Warning: letter `cyra' used in math mode on input line 147.
-
-
-Package mathtext Warning: letter `cyrk' used in math mode on input line 148.
-
-
-Package mathtext Warning: letter `cyra' used in math mode on input line 148.
-
-
-Package mathtext Warning: letter `cyrp' used in math mode on input line 148.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 148.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 148.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 149.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 149.
-
-
-Package mathtext Warning: letter `cyrk' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyra' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrp' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyra' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyrl' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyra' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyrg' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 151.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 151.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--153
-
- []
-
-
-Package mathtext Warning: letter `cyrl' used in math mode on input line 157.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 157.
-
-[4 <./ust2.jpg>]
-
-Package mathtext Warning: letter `cyru' used in math mode on input line 158.
-
-
-Package mathtext Warning: letter `cyrs' used in math mode on input line 158.
-
-
-Package mathtext Warning: letter `cyrt' used in math mode on input line 158.
-
-
-Package mathtext Warning: letter `cyrp' used in math mode on input line 158.
-
-
-Package mathtext Warning: letter `cyrr' used in math mode on input line 158.
-
-[5] (2.1.3.aux)
+[3 <./ust1.jpg>] [4 <./ust2.jpg>] (2.1.3.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1001,34 +904,30 @@ Package rerunfilecheck Info: File `2.1.3.out' has not changed.
 (rerunfilecheck)             Checksum: E1D727D6B5BF23AB10B09CB540E767B5;1410.
  ) 
 Here is how much of TeX's memory you used:
- 13582 strings out of 478582
- 220376 string characters out of 2833452
+ 13573 strings out of 478582
+ 220276 string characters out of 2833452
  513004 words of memory out of 3000000
- 31523 multiletter control sequences out of 15000+600000
- 485887 words of font info for 70 fonts, out of 8000000 for 9000
+ 31517 multiletter control sequences out of 15000+600000
+ 484281 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,63p,1147b,453s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,6n,63p,1147b,453s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\Арсений В Гисич\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Арсени
-й В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800
+lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Арсений В Гисич\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Арсени
+й В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728
 .pk> <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Арсений В Гисич\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Арсен
-ий В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx17
-28.pk> <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/Арсений В Гисич/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ар
-сений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi12.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Арсений В Г
-исич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb><C:/Users/Арсений В Гисич/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 2.1.3.pdf (5 pages, 205834 bytes).
+r/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/Арсений В Гисич/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Арс
+ений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Арсений В Ги
+сич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr8.pfb><C:/Users/Арсений В Гисич/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 2.1.3.pdf (4 pages, 191768 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
+ 284 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
