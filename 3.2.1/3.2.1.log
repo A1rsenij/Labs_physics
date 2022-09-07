@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  6 SEP 2022 22:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  7 SEP 2022 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,19 +833,19 @@ Package mathtext Warning: letter `CYRS' used in math mode on input line 74.
 Missing character: There is no Ñ in font cmbx8!
 [2] [3]
 
-LaTeX Warning: Reference `ris5' on page 4 undefined on input line 144.
+LaTeX Warning: Reference `ris5' on page 4 undefined on input line 146.
 
 
-Package mathtext Warning: letter `CYRV' used in math mode on input line 144.
+Package mathtext Warning: letter `CYRV' used in math mode on input line 146.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 144.
+Package mathtext Warning: letter `cyrt' used in math mode on input line 146.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 144.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 146.
 
 
-LaTeX Warning: Reference `3' on page 4 undefined on input line 151.
+LaTeX Warning: Reference `3' on page 4 undefined on input line 153.
 
 [4] (3.2.1.aux)
 
@@ -886,7 +886,7 @@ c/amsfonts/cm/cmsy10.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmsy8.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/arsen/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 3.2.1.pdf (4 pages, 214404 bytes).
+Output written on 3.2.1.pdf (4 pages, 214414 bytes).
 PDF statistics:
  368 PDF objects out of 1000 (max. 8388607)
  26 named destinations out of 1000 (max. 500000)
