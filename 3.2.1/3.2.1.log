@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  7 SEP 2022 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  8 SEP 2022 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,21 +833,125 @@ Package mathtext Warning: letter `CYRS' used in math mode on input line 74.
 Missing character: There is no Ñ in font cmbx8!
 [2] [3]
 
-LaTeX Warning: Reference `ris5' on page 4 undefined on input line 146.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 144.
 
 
-Package mathtext Warning: letter `CYRV' used in math mode on input line 146.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 144.
 
 
-Package mathtext Warning: letter `cyrt' used in math mode on input line 146.
+Package mathtext Warning: letter `cyrn' used in math mode on input line 144.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 146.
+Package mathtext Warning: letter `cyrk' used in math mode on input line 144.
 
 
-LaTeX Warning: Reference `3' on page 4 undefined on input line 153.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 144.
 
-[4] (3.2.1.aux)
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 144.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 150.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 150.
+
+<3.2.1_1.png, id=86, 722.7pt x 433.62pt>
+File: 3.2.1_1.png Graphic file (type png)
+<use 3.2.1_1.png>
+Package pdftex.def Info: 3.2.1_1.png  used on input line 169.
+(pdftex.def)             Requested size: 505.88655pt x 303.53192pt.
+
+Overfull \hbox (22.18968pt too wide) in paragraph at lines 169--170
+[]  
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `ris5' on page 4 undefined on input line 177.
+
+
+Package mathtext Warning: letter `CYRV' used in math mode on input line 177.
+
+
+Package mathtext Warning: letter `cyrt' used in math mode on input line 177.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 177.
+
+[4]
+
+LaTeX Warning: Reference `3' on page 5 undefined on input line 184.
+
+[5 <./3.2.1_1.png>] (3.2.1.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -855,40 +959,41 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `3.2.1.out' has not changed.
-(rerunfilecheck)             Checksum: E1D727D6B5BF23AB10B09CB540E767B5;1410.
+(rerunfilecheck)             Checksum: B0BF971C04E6F271EAFFF40DB5DAB8DE;1514.
  ) 
 Here is how much of TeX's memory you used:
- 13802 strings out of 477843
- 221128 string characters out of 2823600
- 533438 words of memory out of 3000000
- 32465 multiletter control sequences out of 15000+600000
- 482501 words of font info for 63 fonts, out of 8000000 for 9000
+ 13820 strings out of 477843
+ 221339 string characters out of 2823600
+ 538495 words of memory out of 3000000
+ 32476 multiletter control sequences out of 15000+600000
+ 483319 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,9n,77p,1451b,547s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,10n,77p,1473b,547s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx12
 00.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-ti1200.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\lati0800.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
-pi600\larm1200.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\larm1728.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
-lh-t2a/dpi600\labx1728.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour
-/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/arsen/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/arsen/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/arsen/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/arse
-n/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Us
-ers/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr6.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy8.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/arsen/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 3.2.1.pdf (4 pages, 214414 bytes).
+bx1440.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\lati1200.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\lati0800.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\larm1200.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\larm1728.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/ljfour
+/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\arsen\AppData\Local\MiKTeX\fonts/pk/lj
+four/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/arsen/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/arsen/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/arsen/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/arsen/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/
+arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr6.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/arsen/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/arsen/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on 3.2.1.pdf (5 pages, 543153 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
