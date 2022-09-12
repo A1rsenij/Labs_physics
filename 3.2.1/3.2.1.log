@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  12 SEP 2022 03:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.12)  12 SEP 2022 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./3.2.1.tex
 (3.2.1.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23>
+L3 programming layer <2022-08-30>
 (C:\Users\arsen\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\arsen\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
@@ -399,7 +399,7 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 (C:\Users\arsen\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/07/20 3.78 The Babel package
+Package: babel 2022/08/29 3.79 The Babel package
 \babel@savecnt=\count270
 \U@D=\dimen143
 \l@unhyphenated=\language79
@@ -662,7 +662,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 23.
 
 (C:\Users\arsen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box55
 ) (3.2.1.aux)
@@ -1362,17 +1362,14 @@ Package mathtext Warning: letter `cyrm' used in math mode on input line 318.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `3.2.1.out' has not changed.
 (rerunfilecheck)             Checksum: 72DE23F2CE9A3151EE6485D6C60E249A;1889.
  ) 
 Here is how much of TeX's memory you used:
- 13884 strings out of 477843
- 222045 string characters out of 2823600
- 553035 words of memory out of 3000000
- 32520 multiletter control sequences out of 15000+600000
+ 13886 strings out of 475389
+ 222082 string characters out of 2777000
+ 592762 words of memory out of 3000000
+ 34973 multiletter control sequences out of 15000+600000
  482332 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,10n,77p,990b,549s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1395,7 +1392,7 @@ r12.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr6.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmr8.pfb><C:/Users/arsen/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb>
-Output written on 3.2.1.pdf (9 pages, 1483396 bytes).
+Output written on 3.2.1.pdf (9 pages, 1483468 bytes).
 PDF statistics:
  468 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 500000)
