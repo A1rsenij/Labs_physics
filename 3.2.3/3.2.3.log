@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.17)  20 NOV 2022 21:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.17)  28 NOV 2022 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -731,48 +731,358 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/frontendlayer\tikz.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/basiclayer\pgf.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/utilities\pgfrcs.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen178
+\pgfutil@tempdimb=\dimen179
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfutil-common-lists.tex))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box55
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfrcs.code.tex
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/basiclayer\pgfcore.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/systemlayer\pgfsys.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen180
+\pgf@y=\dimen181
+\pgf@xa=\dimen182
+\pgf@ya=\dimen183
+\pgf@xb=\dimen184
+\pgf@yb=\dimen185
+\pgf@xc=\dimen186
+\pgf@yc=\dimen187
+\pgf@xd=\dimen188
+\pgf@yd=\dimen189
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count293
+\c@pgf@countb=\count294
+\c@pgf@countc=\count295
+\c@pgf@countd=\count296
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count297
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count298
+\pgfsyssoftpath@bigbuffer@items=\count299
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmath.code.tex
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathcalc.code.tex
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathutil.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen190
+\pgfmath@count=\count300
+\pgfmath@box=\box56
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.code.tex
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.basic.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.trigonometric.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.random.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.comparison.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.base.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.round.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.misc.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count301
+))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfint.code.tex)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen191
+\pgf@picmaxx=\dimen192
+\pgf@picminy=\dimen193
+\pgf@picmaxy=\dimen194
+\pgf@pathminx=\dimen195
+\pgf@pathmaxx=\dimen196
+\pgf@pathminy=\dimen197
+\pgf@pathmaxy=\dimen198
+\pgf@xx=\dimen199
+\pgf@xy=\dimen256
+\pgf@yx=\dimen257
+\pgf@yy=\dimen258
+\pgf@zx=\dimen259
+\pgf@zy=\dimen260
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen261
+\pgf@path@lasty=\dimen262
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen263
+\pgf@shorten@start@additional=\dimen264
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count302
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen265
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen266
+\pgf@pt@y=\dimen267
+\pgf@pt@temp=\dimen268
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen269
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen270
+\pgf@sys@shading@range@num=\count303
+\pgf@shadingcount=\count304
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box60
+))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box61
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen271
+\pgf@nodesepend=\dimen272
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/utilities\pgffor.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/utilities\pgfkeys.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgfkeys.code.tex))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+pgf/math\pgfmath.sty
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmath.code.tex))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/utilities\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen273
+\pgffor@skip=\dimen274
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count305
+\pgfplotmarksize=\dimen275
+)
+\tikz@lastx=\dimen276
+\tikz@lasty=\dimen277
+\tikz@lastxsaved=\dimen278
+\tikz@lastysaved=\dimen279
+\tikz@lastmovetox=\dimen280
+\tikz@lastmovetoy=\dimen281
+\tikzleveldistance=\dimen282
+\tikzsiblingdistance=\dimen283
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count306
+\tikznumberofchildren=\count307
+\tikznumberofcurrentchild=\count308
+\tikz@fig@count=\count309
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count310
+\pgfmatrixcurrentcolumn=\count311
+\pgf@matrix@numberofcolumns=\count312
+)
+\tikz@expandcount=\count313
+
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
+c/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count293
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count314
+\l__pdf_internal_box=\box66
 ) (3.2.3.aux)
 \openout1 = `3.2.3.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-Package hyperref Info: Link coloring ON on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+Package hyperref Info: Link coloring ON on input line 30.
  (3.2.3.out) (3.2.3.out)
-\@outlinefile=\write3
-\openout3 = `3.2.3.out'.
+\@outlinefile=\write4
+\openout4 = `3.2.3.out'.
 
-LaTeX Info: Redefining \th on input line 29.
-LaTeX Info: Redefining \celsius on input line 29.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 29.
+LaTeX Info: Redefining \th on input line 30.
+LaTeX Info: Redefining \celsius on input line 30.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 30.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 29.
-Package gensymb Info: Using \Omega for \ohm on input line 29.
+LaTeX Info: Redefining \ohm on input line 30.
+Package gensymb Info: Using \Omega for \ohm on input line 30.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -814,32 +1124,23 @@ Package gensymb Warning: Not defining \micro.
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/contex
 t/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen178
-\scratchbox=\box56
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen179
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count315
+\scratchdimen=\dimen284
+\scratchbox=\box67
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen285
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks45
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
-grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 00miktex\epstopdf-sys.cfg
@@ -848,13 +1149,13 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 {C:/Users/Арсений В Гисич/AppData/Local/MiKTeX/fonts/map/pdftex/pd
 ftex.map}]
-<1.png, id=36, 60.34544pt x 55.52745pt>
+<1.png, id=39, 60.34544pt x 55.52745pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 63.
+Package pdftex.def Info: 1.png  used on input line 64.
 (pdftex.def)             Requested size: 145.11053pt x 133.52783pt.
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
-8.
+9.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\omlcmr.fd
@@ -862,16 +1163,16 @@ File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 68.
+(Font)              using `OML/cmr/m/it' instead on input line 69.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <8> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <6> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 69.
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
-8.
+9.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\omscmr.fd
@@ -879,29 +1180,29 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 68.
+(Font)              using `OMS/cmr/m/n' instead on input line 69.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
 
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
 
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 68
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 69
 .
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
@@ -909,174 +1210,434 @@ jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
-Package mathtext Warning: letter `CYRS' used in math mode on input line 70.
+Package mathtext Warning: letter `CYRS' used in math mode on input line 71.
 
 
-Package mathtext Warning: letter `CYRS' used in math mode on input line 79.
+Package mathtext Warning: letter `CYRS' used in math mode on input line 80.
 
 Missing character: There is no � in font cmbx8!
 [2 <./1.png>]
-<ust.png, id=72, 174.1707pt x 110.93445pt>
+<ust.png, id=75, 174.1707pt x 110.93445pt>
 File: ust.png Graphic file (type png)
 <use ust.png>
-Package pdftex.def Info: ust.png  used on input line 135.
+Package pdftex.def Info: ust.png  used on input line 132.
 (pdftex.def)             Requested size: 435.42567pt x 277.33543pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 142--147
 
  []
 
 [3] [4 <./ust.png>]
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 176.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 176.
+Package mathtext Warning: letter `CYRO' used in math mode on input line 177.
 
 
 Package mathtext Warning: letter `cyrm' used in math mode on input line 177.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 177.
+Package mathtext Warning: letter `CYRO' used in math mode on input line 178.
 
 
 Package mathtext Warning: letter `cyrm' used in math mode on input line 178.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 178.
+Package mathtext Warning: letter `CYRS' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRM' used in math mode on input line 181.
+Package mathtext Warning: letter `cyrn' used in math mode on input line 209.
 
 
-LaTeX Warning: Reference `plot1' on page 5 undefined on input line 181.
+Package mathtext Warning: letter `CYRF' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRM' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrk' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRA' used in math mode on input line 187.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRM' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrc' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRA' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrk' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRT' used in math mode on input line 187.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `cyrl' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrn' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 187.
+Package mathtext Warning: letter `CYRO' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRT' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `cyrl' used in math mode on input line 187.
+Package mathtext Warning: letter `cyrr' used in math mode on input line 209.
 
 
-Package mathtext Warning: letter `CYRM' used in math mode on input line 197.
+Package mathtext Warning: letter `cyre' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `cyrz' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `CYRO' used in math mode on input line 209.
+
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 209.
+
+
+Overfull \hbox (44.82655pt too wide) in paragraph at lines 207--220
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 225.
+
+
+Package mathtext Warning: letter `CYRF' used in math mode on input line 225.
+
+
+Package mathtext Warning: letter `cyrn' used in math mode on input line 225.
+
+
+Package mathtext Warning: letter `CYRF' used in math mode on input line 225.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 231.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 231.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 231.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 231.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 231.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 231.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 256.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 256.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 256.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 256.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 256.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 256.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.2.3_1.png, id=95, 722.7pt x 433.62pt>
+File: 3.2.3_1.png Graphic file (type png)
+<use 3.2.3_1.png>
+Package pdftex.def Info: 3.2.3_1.png  used on input line 285.
+(pdftex.def)             Requested size: 505.88655pt x 303.53192pt.
+
+Overfull \hbox (22.18968pt too wide) in paragraph at lines 285--286
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5]
+<3.2.3_2.png, id=111, 722.7pt x 433.62pt>
+File: 3.2.3_2.png Graphic file (type png)
+<use 3.2.3_2.png>
+Package pdftex.def Info: 3.2.3_2.png  used on input line 297.
+(pdftex.def)             Requested size: 505.88655pt x 303.53192pt.
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `CYRK' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `cyrl' used in math mode on input line 204.
-
-
-Package mathtext Warning: letter `cyrm' used in math mode on input line 204.
+Overfull \hbox (22.18968pt too wide) in paragraph at lines 297--298
+ [] 
+ []
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 204.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+[7 <./3.2.3_1.png>]
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 314.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 204.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 314.
 
 
-Package mathtext Warning: letter `CYRV' used in math mode on input line 204.
+Package mathtext Warning: letter `cyrc' used in math mode on input line 314.
 
 
-Package mathtext Warning: letter `cyrs' used in math mode on input line 204.
+Package mathtext Warning: letter `cyrk' used in math mode on input line 314.
 
 
-Package mathtext Warning: letter `cyrm' used in math mode on input line 206.
+Package mathtext Warning: letter `CYRG' used in math mode on input line 314.
 
-[6] (3.2.3.aux)
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 314.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrk' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `CYRG' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrc' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyre' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrl' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrr' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyra' used in math mode on input line 341.
+
+
+Package mathtext Warning: letter `cyrd' used in math mode on input line 341.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.2.3_3.png, id=126, 722.7pt x 433.62pt>
+File: 3.2.3_3.png Graphic file (type png)
+<use 3.2.3_3.png>
+Package pdftex.def Info: 3.2.3_3.png  used on input line 365.
+(pdftex.def)             Requested size: 505.88655pt x 303.53192pt.
+
+Overfull \hbox (22.18968pt too wide) in paragraph at lines 365--366
+ [] 
+ []
+
+[8 <./3.2.3_2.png>] [9 <./3.2.3_3.png>]
+<3.2.3_4.png, id=141, 722.7pt x 433.62pt>
+File: 3.2.3_4.png Graphic file (type png)
+<use 3.2.3_4.png>
+Package pdftex.def Info: 3.2.3_4.png  used on input line 380.
+(pdftex.def)             Requested size: 505.88655pt x 303.53192pt.
+
+Overfull \hbox (22.18968pt too wide) in paragraph at lines 380--381
+ [] 
+ []
+
+[10 <./3.2.3_4.png>]
+
+Package mathtext Warning: letter `cyrm' used in math mode on input line 409.
+
+
+Package mathtext Warning: letter `CYRA' used in math mode on input line 409.
+
+[11] (3.2.3.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `3.2.3.out' has not changed.
 (rerunfilecheck)             Checksum: E1D727D6B5BF23AB10B09CB540E767B5;1410.
  ) 
 Here is how much of TeX's memory you used:
- 13825 strings out of 475385
- 226511 string characters out of 2766014
- 574972 words of memory out of 3000000
- 34941 multiletter control sequences out of 15000+600000
- 481996 words of font info for 60 fonts, out of 8000000 for 9000
+ 23924 strings out of 475385
+ 453942 string characters out of 2766014
+ 783585 words of memory out of 3000000
+ 44816 multiletter control sequences out of 15000+600000
+ 483602 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,896b,463s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,11n,80p,896b,627s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/
-lh/lh-t2a/dpi600\lati0600.pk> <C:\Users\Арсений В Гисич\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Арсени
-й В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200
+lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Арсений В Гисич\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Арсени
+й В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0800
 .pk> <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\Арсений В Гисич\AppData\
-Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Арсен
-ий В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm17
+r/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Арсений В Гисич\AppData\
+Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Арсен
+ий В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx17
 28.pk> <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Арсений В Гисич\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/Арсе�
-�ий В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Арсений В Гис�
-�ч/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
-/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cmextra/cmex7.pfb><C:/Users/Арсений В Гисич/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/
+our/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/Арсений В Гисич/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ар
+сений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx8.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Арсений В Г
+исич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex
+7.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/Арсений В Гиси�
+�/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/U
+sers/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><C:/Users/Арсений В Гисич/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Арсени
+й В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Арсений В Гисич/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/
 Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><C:/Users/Арсений В Гисич/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Арсений �
-� Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8
-.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Арсений В Гисич/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/А�
-�сений В Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr8.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Арсений В Г
-исич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb
->
-Output written on 3.2.3.pdf (6 pages, 306264 bytes).
+msfonts/cm/cmsy10.pfb><C:/Users/Арсений В Гисич/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on 3.2.3.pdf (11 pages, 1620254 bytes).
 PDF statistics:
- 392 PDF objects out of 1000 (max. 8388607)
- 28 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 455 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
