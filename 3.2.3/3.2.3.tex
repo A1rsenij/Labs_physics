@@ -60,70 +60,72 @@ urlcolor=blue
 
 \section{Теоретические сведения}
 
-\begin{wrapfigure}{r}{0.3\textwidth}
-\includegraphics[width=0.3\textwidth]{1.png}
-\caption{Последовательный контур с внешней ЭДС}
-\label{r1}
-\end{wrapfigure}
+Рассмотрим вынужденные колебания в параллельном контуре, одна из ветвей которого содержит индуктивность $L$ и сопротивление $R$, а другая --- ёмкость $C$ (рис.~\ref{ris1}).
 
-Рассмотрим процессы, протекающие в контуре, подключённом к источнику внешней ЭДС, изменяющейся по гармоническому закону $\varepsilon = \varepsilon_0 \cos{(\omega t + \varphi_0)}$. Для напряжения на конденсаторе $U_C(t)$ получим уравнение 
-\begin{equation}\label{eq1}
-\ddot{U}_C + 2\gamma \dot{U}_C + \omega_0^2U_С = \varepsilon_0\cos{(\omega t + \varphi_0)}.
-\end{equation}
+\begin{figure}[h!]
+\begin{center}
+    \includegraphics[scale=2]{1.png}
+\end{center}
+\caption{Параллельный контур с внешним гармоническим источником ЭДС}
+\label{ris1}
+\end{figure}
 
-Перейдём к комплексному представлению колебаний. Запишем уравнение~\eqref{eq1} в комплексной форме, обозначая комплексные величины как <<векторы>>:
-\begin{align}\label{eq2}
-U_C & = \mathrm{Re}\,\mathbf{U_C}, & \mathbf{U_C} & = \mathrm{Re}\,\mathbf{U_C} + i\,\mathrm{Im}\,\mathbf{U_C}, \\
-\varepsilon & = \mathrm{Re}\,\mathbf{\varepsilon}, & \mathbf{\varepsilon} & = \mathbf{\varepsilon_0}e^{i\omega t} = \varepsilon_0e^{i(\omega t + \varphi_0)},
+Контур подключён к источнику ЭДС, задающему во внешней цепи ток, изменяющийся по гармоническому закону: $I = I_0 \cos{(\omega t + \varphi_0)}$. Таким образом, мы предполагаем, что внутреннее сопротивлением источника столь велико, что он является генератором тока, который по определению обладает бесконечно большим внутренним сопротивлением. Потерями в катушке индуктивности и конденсаторе будем, как и ранее, пренебрегать. Необходимые уточнения будут сделаны в описаниях соответствующих лабораторных работ.
+
+Воспользуемся формулами для импедансов элементов цепи и правилами сложения сопротивлений. Для комплексных амплитуд токов в ёмкостной $\mathbf{I_C}$ и индуктивной $\mathbf{I_L}$ ветвях контура, а также для напряжения $\mathbf{U}$ на контуре (совпадающем в нашем приближении с напряжением на конденсаторе) при нулевой начальной фазе тока $\varphi_0 = 0$ получаем выражения
+\begin{align}
+& \mathbf{I_C} = \mathbf{I} \frac{Z_{LR}}{Z_C + Z_{LR}} = I_0 \frac{1 + i \frac{\rho \omega}{R \omega_0}}{1 + i \frac{\rho}{R}\left(\frac{\omega}{\omega_0} - \frac{\omega_0}{\omega}\right)}, \\
+& \mathbf{I_L} = \mathbf{I} \frac{Z_{C}}{Z_C + Z_{LR}} = I_0 \frac{-i \frac{\rho \omega_0}{R \omega}}{1 + i \frac{\rho}{R}\left(\frac{\omega}{\omega_0} - \frac{\omega_0}{\omega}\right)}, \label{eq:Ic IL U} \\
+& \mathbf{U} = \mathbf{I} \frac{Z_C Z_{LR}}{Z_C + Z_{LR}} = I_0 \frac{\rho^2}{R} \frac{1 - i \frac{\rho \omega_0}{R \omega}}{1 + i \frac{\rho}{R}\left(\frac{\omega}{\omega_0} - \frac{\omega_0}{\omega}\right)}, \\
 \end{align}
-\begin{equation}\label{eq3}
-\mathbf{\ddot{U}_C} + 2\gamma \mathbf{\dot{U}_C} + \omega_0^2\mathbf{U_С} = \omega_0^2\mathbf{\varepsilon}.
+где $Z_C = \frac{1}{i \omega C}$ и $Z_{LR} = R + i \omega L$ --- импедансы ёмкостной и индуктивной ветвей параллельного контура соответственно.
+
+Ограничимся рассмотрением наиболее интересного случая контура с
+высокой добротностью вблизи резонансной частоты, когда $Q\approx \rho / R \gg 1$,
+выполняется условие и применимо разложение. При этом
+вещественные части комплексных амплитуд \eqref{eq:Ic IL U} можно представить
+в виде
+\begin{align}
+& I_C(t) = Q I_0 \frac{\omega}{\omega_0} \frac{\cos{(\omega t - \psi_C)}}{\sqrt{1 + (\tau \Delta{\omega})^2}}, & &\psi_C = \arctan{(\tau \Delta{\omega})} - \frac{\pi}{2} + \frac{1}{Q}, \\
+& I_L(t) = Q I_0 \frac{\omega_0}{\omega} \frac{\cos{(\omega t - \psi_L)}}{\sqrt{1 + (\tau \Delta{\omega})^2}}, & &\psi_L = \arctan{(\tau \Delta{\omega})} + \frac{\pi}{2}, \label{eq:Ic IL U (t)} \\
+& U(t) = Q \rho I_0 \frac{\cos{(\omega t - \psi_U)}}{\sqrt{1 + (\tau \Delta{\omega})^2}}, & &\psi_U = \arctan{(\tau \Delta{\omega})} + \frac{\omega_0}{\omega} \frac{1}{Q}. \\
+\end{align}
+
+При резонансе, когда в принятом выше приближении $\omega = \omega_0$, $\Delta{\omega} = 0$, амплитуды токов в ветвях контура, напряжения на нём, фазовые сдвиги $\psi$ и их производные по циклической частоте $\psi' = d\psi/d\omega$ принимают вид
+\begin{align}
+& I_{C_{\omega}}(\omega_0) = Q I_0, & &\psi_C(\omega_0) = - \frac{\pi}{2} + \frac{1}{Q}, \\
+& I_{L_{\omega}}(\omega_0) = Q I_0, & &\psi_L(\omega_0) = \frac{\pi}{2}, \label{eq:Ic IL U (w)} \\
+& U_{\omega}(\omega_0) = Q^2 R I_0, & &\psi_U(\omega_0) = \frac{1}{Q}. \\
+\end{align}
+\begin{equation}\label{eq:psi C L U}
+\psi'_C(\omega_0) = \psi'_L(\omega_0) = \psi'_U(\omega_0) = \tau.
+\end{equation}
+Из формул \eqref{eq:Ic IL U (w)} следует, что на частоте $\omega_0$ токи $I_C$ и $I_L$ в ёмкостной и индуктивной ветвях контура в $Q$ раз превышают ток $I$ во внешней цепи. При этом ток $I_C$ опережает внешний ток $I$ по фазе почти на $\pi/2$,а ток $I_L$ — отстаёт на $\pi/2$. Между собой токи $I_C$ и $I_L$ сдвинуты по фазе на угол, близкий к $\pi$. Можно сказать, что токи $I_C$ и $I_L$ образуют контурный ток, последовательно обтекающий элементы контура и в $Q$ раз превышающий по амплитуде внешний ток $I$. Последнее обстоятельство послужило поводом назвать резонанс в параллельном контуре резонансом токов.
+
+Отметим, однако, что максимальные значения токов в контуре не строго равны $Q I_0$ и достигаются не строго на частоте $\omega_0$. Соответствующие относительные поправки, как и в случае резонанса напряжения, обусловлены входящими в выражения \eqref{eq:Ic IL U (t)} для токов $I_C$ , $I_L$ множителями $(\omega_0 / \omega)^{\pm 1}$ и составляют доли малой величины $Q^{-2}$.
+
+Из формул \eqref{eq:Ic IL U} вытекает, что на частоте $\omega_0$ импеданс контура $Z(\omega_0) = U(\omega_0)/I_0$ является почти чисто активным. В пренебрежении малыми поправками порядка $Q^{-2}$ его модуль и фаза относительно внешнего тока соответственно равны:
+\begin{equation}\label{eq:Z(w)}
+|Z(\omega_0)| = Q^2 R, \quad \psi_Z(\omega_0) = \frac{1}{Q}.
 \end{equation}
 
-Комплексный множитель $\mathbf{\varepsilon_0} = \varepsilon_0e^{i\varphi_0}$, стоящий перед $e^{i\omega t}$, называется \textit{комплексной амплитудой}.
+Как видим, сопротивление контура в резонансе в $Q^2$ раз превышает его активное сопротивление $R$. Это свойство параллельного контура широко используется в радиотехнике.
 
-Решив уравнение~\eqref{eq3}, получим комплескное выражение для напряжения на конденсаторе $\mathbf{U_C}$. \textit{Вещественная часть} этого решения $\mathrm{Re}\,\mathbf{U_C}$ и является решением исходного уравнения~\eqref{eq1}. Будем искать решение уравнения~\eqref{eq3} в виде
-\begin{equation}\label{eq4}
-\mathbf{U_C}(t) = \mathbf{U_{C0}}e^{i\omega t},
-\end{equation}
-где $\mathbf{U_{C0}}$ --- комплексная амплитуда напряжения на конденсаторе, не зависящая от времени. Подставляя \eqref{eq4} в \eqref{eq3}, находим $\mathbf{U_{C0}}$ и далее, комплексные амплитуды тока в контуре и напряжений на сопротивлении и индуктивности:
-\begin{equation}\label{eq5}
-\mathbf{U_{C0}} = \frac{\mathbf{\varepsilon_0}}{i\omega CZ}, \quad Z = R + i\left(\omega L - \frac{1}{\omega C}\right),
-\end{equation}
-\begin{equation}\label{eq6}
-\mathbf{I_0} = \frac{\mathbf{\varepsilon_0}}{Z}, \quad \mathbf{U_{R0}} = \frac{R\mathbf{\varepsilon_0}}{Z}, \quad \mathbf{U_{L0}} = i\omega L\frac{\mathbf{\varepsilon_0}}{Z}.
-\end{equation}
+По формулам \eqref{eq:Ic IL U (w)} легко построить векторную диаграмму для резонанса токов в рассмотренном выше параллельном контуре, в котором не учитывались потери в конденсаторе и катушке индуктивности. Подобная диаграмма показана на рис.~\ref{ris2}.
 
-Комплексная величина $Z$ называется \textit{комплексным сопротивлением}, или \textit{импедансом}, последовательного контура. Можно определить импеданс каждого отдельного элемента контура:
-\begin{equation}\label{eq7}
-Z_R = R, \quad Z_L = i\omega L, \quad Z_C = \frac{1}{i\omega C}.
-\end{equation}
+\begin{figure}[h!]
+\begin{center}
+    \includegraphics[scale=2]{2.png}
+\end{center}
+\caption{Векторная диаграмма при резонансе токов}
+\label{ris2}
+\end{figure}
 
-В новых обозначениях уравнения \eqref{eq5}--\eqref{eq6} принимают вид
-\begin{equation}\label{eq8}
-\mathbf{I} = \frac{\mathbf{\varepsilon_0}}{Z}, \quad \mathbf{U_{R0}} = Z_R\mathbf{I_0}, \quad \mathbf{U_{C0}} = Z_C\mathbf{I_0}, \quad \mathbf{U_{L0}} = Z_L\mathbf{I_0}.
-\end{equation}
+По оси ординат диаграммы отложен внешний ток $\mathbf{I}$. Напряжение на конденсаторе, равное напряжению на контуре $\mathbf{U}$, с учётом принятого правила знаков отстаёт по фазе от тока $\mathbf{I}$ на угол $Q^{-1}$. Ток $\mathbf{I_C}$ через конденсатор (без потерь) опережает по фазе напряжение $U$ на $\pi/2$. Ток через индуктивность $\mathbf{I_L}$ отстаёт от внешнего тока $I$ по фазе на $\pi/2$.
 
-Импеданс контура $Z$ не зависит от начальных условий, не содержит величин ни токов, ни напряжений, а определяется свойствами всех элементов, соединённых в контур, и частотой синусоидальной ЭДС, к которой он подключён. Таким образом, \textit{импеданс $Z$ является характеристикой колебательного контура на заданной частоте}.
+Напряжение $\mathbf{U_R}$ на сопротивлении совпадает по фазе с током $\mathbf{I_L}$, напряжение $\mathbf{U_L}$ на индуктивности (без потерь) опережает ток $\mathbf{I_L}$ на $\pi/2$. Как видим, контур с активными потерями только в индуктивной ветви проявляет ёмкостную реакцию: напряжение на контуре отстаёт по фазе от тока.
 
-Выражение \eqref{eq5} для импеданса контура $Z$ содержит действительную часть $$\mathrm{Re}\,Z = R,$$ называемую \textit{активным} сопротивлением контура, и мнимую часть $$\mathrm{Im}\,Z = \omega L - \frac{1}{\omega C},$$ носящую название \textit{реактивного} сопротивления.
-
-Импедансы контура и его отдельных элементов --- комплексные числа --- могут быть представленны в показательной форме:
-\begin{equation}\label{eq9}
-Z = Z_0e^{i\psi},
-\end{equation}
-где $Z_0 = |Z|$ --- модуль комплексного числа, $\psi = \arg{Z}$ --- его аргумент (фаза). Для импеданса рассматриваемого последовательного контура при этом находим
-\begin{equation}\label{eq10}
-Z_0 = \sqrt{(\mathrm{Re}\,Z)^2 + (\mathrm{Im}\,Z)^2} = \sqrt{R^2 + \left(\omega L - \frac{1}{\omega C}\right)^2} = \frac{R}{\cos{\psi_I}},
-\end{equation}
-\begin{equation}\label{eq11}
-\tan{\psi_I} = \frac{\mathrm{Im}\,Z}{\mathrm{Re}\,Z} = \frac{\omega L - \frac{1}{\omega C}}{R}.
-\end{equation}
-Ток в контуре и напряжения на отдельных его элементах теперь могут быть получены по формулам~\eqref{eq5}--\eqref{eq8}. Например, действительная часть тока в контуре
-\begin{equation}\label{eq12}
-I(t) = \frac{\varepsilon_0}{R}\cos{\psi_I}\cos({\omega t + \varphi_0 - \psi_I)}.
-\end{equation}
-Как видно из~\eqref{eq11}~и~\eqref{eq12}, угол~$\psi_I$, определяемый отношением мнимой и действительной частей импеданса, представляют собой сдвиг фаз между напряжением на последовательном контуре и током в нём, причём \textit{положительные значения угла~$\psi_I$ соответствуют отставанию фазы тока, а отрицательные --- опережению}. В общем случае, когда к источнику последовательно подключены резистор, конденсатор и катушка самоиндукции, сдвиг фазы $\psi_I$ лежит в пределах $-\pi/2 < \psi_I < \pi/2$.
+Таким образом, условия резонанса токов в параллельном контуре и резонанса напряжений в последовательном высокодобротном контуре совпадают: $\omega = \omega_0$. Но если в последовательном контуре резонансное сопротивление контура равно чисто активному сопротивлению цепи $R$ и минимально, обеспечивая максимум тока при заданном внешнем напряжении, то в параллельном контуре резонансное сопротивление контура почти чисто активное, обратно пропорционально $R$ и в $Q^2$ раз его превышает, обеспечивая максимум напряжения на контуре при заданном внешнем токе. Сдвиг фаз между напряжением и током при резонансе напряжений всегда отсутствует, а при резонансе токов он близок к нулю, только если $Q \gg 1$.
 
 \section{Методика измерений}
 
@@ -135,31 +137,42 @@ I(t) = \frac{\varepsilon_0}{R}\cos{\psi_I}\cos({\omega t + \varphi_0 - \psi_I)}.
 \label{ust}
 \end{figure}
 
-$I=\dfrac{E}{R_I}=\dfrac{E_0cos(\omega t+\varphi_0)}{R_I}=I_0cos(\omega t+\varphi_0)$ --- ток на генераторе\newline
-$$R_S=\dfrac{U_{RS}}{I}=\frac{U_{RS}}{\omega CU_{CS}}=\dfrac{1}{\omega C}tg\delta$$
-где $R_S$ --- эквивалентное последовательное сопротивление (ЭПС)\newline
-Для используемых емкостей $C_n$ выполнено $tg\delta<10^{-3}$\newline
-$$R_{\sum}=R+R_L+R_S$$
-где $R_{\sum}$ --- суммарное активное сопротивление контура.\newline
-Воспользуемся методом комплексных амплитуд:\newline
-$Z_L=R_L+i\omega L$, $Z_C=R_S-i\frac{1}{\omega C}$, $Z=R_{\sum}+i(\omega L-d\dfrac{1}{\omega C})$\newline
-Тогда напряжение на контуре и токи на индуктивной и емкостной частях контура при нулевой начальной фазе можно представить в виде:\newline
-$$I_c=I\dfrac{Z_L}{Z_C+Z_L}=iQI_0\dfrac{\omega}{\omega_0}\dfrac{1-i\dfrac{R+R_L}{\rho}\dfrac{\omega_0}{\omega}}{1+iQ(\dfrac{\omega}{\omega_0}-\dfrac{\omega_0}{\omega})}$$
-$$I_L=I\dfrac{Z_c}{Z_C+Z_L}=iQI_0\frac{\omega_0}{\omega}\frac{1+itg\delta}{1+iQ(\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega})}$$
-$$U=I\frac{Z_LZ_c}{Z_C+Z_L}=Q\rho I_0\frac{(1-i\frac{R+R_L}{\rho}\frac{\omega_0}{\omega})(1+itg\delta)}{1+iQ(\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega})}$$
-где $\omega_0=\frac{1}{\sqrt{LC}}$ --- собственная частота, $\rho=\sqrt{\frac{L}{C}}$ --- реактивное сопротивление контура, $Q=\frac{\rho}{R_{\sum}}$ --- добротность контура\newline
+$I=\dfrac{E}{R_I}=\dfrac{E_0cos(\omega t+\varphi_0)}{R_I}=I_0cos(\omega t+\varphi_0)$ --- ток на генераторе.
+
+\begin{equation}\label{eq:Rs}
+R_S=\dfrac{U_{RS}}{I}=\frac{U_{RS}}{\omega CU_{CS}}=\dfrac{1}{\omega C}tg\delta,
+\end{equation}
+где $R_S$ --- эквивалентное последовательное сопротивление (ЭПС).
+
+Для используемых емкостей $C_n$ выполнено $tg\delta<10^{-3}$.
+
+\begin{equation}\label{eq:Rsum}
+R_{\sum}=R+R_L+R_S,
+\end{equation}
+где $R_{\sum}$ --- суммарное активное сопротивление контура.
+
+Воспользуемся методом комплексных амплитуд:
+$$Z_L=R_L+i\omega L, \quad Z_C=R_S-i\frac{1}{\omega C}, \quad Z=R_{\sum}+i(\omega L-d\dfrac{1}{\omega C}).$$
+
+Тогда напряжение на контуре и токи на индуктивной и емкостной частях контура при нулевой начальной фазе можно представить в виде:
+$$I_c=I\dfrac{Z_L}{Z_C+Z_L}=iQI_0\dfrac{\omega}{\omega_0}\dfrac{1-i\dfrac{R+R_L}{\rho}\dfrac{\omega_0}{\omega}}{1+iQ(\dfrac{\omega}{\omega_0}-\dfrac{\omega_0}{\omega})},$$
+$$I_L=I\dfrac{Z_c}{Z_C+Z_L}=iQI_0\frac{\omega_0}{\omega}\frac{1+itg\delta}{1+iQ(\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega})},$$
+$$U=I\frac{Z_LZ_c}{Z_C+Z_L}=Q\rho I_0\frac{(1-i\frac{R+R_L}{\rho}\frac{\omega_0}{\omega})(1+itg\delta)}{1+iQ(\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega})},$$
+где $\omega_0=\frac{1}{\sqrt{LC}}$ --- собственная частота, $\rho=\sqrt{\frac{L}{C}}$ --- реактивное сопротивление контура, $Q=\frac{\rho}{R_{\sum}}$ --- добротность контура.
+
 Рассмотрим случай, когда $|\Delta\omega|=|\omega-\omega_0|\ll\omega_0$. Тогда
-$$\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega}=\frac{2\Delta\omega}{\omega_0}$$
+$$\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega}=\frac{2\Delta\omega}{\omega_0}.$$
 Пренебрегая поправками порядка $Q^{-2}$, получим:
-$$I_c=QI_0\frac{\omega}{\omega_0}\frac{e^{i\phi_c}}{\sqrt{1+(\tau\Delta\omega)^2}},    \phi_c=\frac{\pi}{2}-\frac{R+R_L}{\rho}-arctg(\tau\Delta\omega)$$
-$$I_L=QI_0\frac{\omega_0}{\omega}\frac{e^{i\phi_L}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_L=-\frac{\pi}{2}+\delta\arctg(\tau\Delta\omega)$$
-$$U=Q\rho I_0\frac{\omega}{\omega_0}\frac{e^{i\phi_U}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_U=-\frac{\omega}{\omega_0}\frac{R+R_L}{\rho}+\delta-arctg(\tau\Delta\omega)$$
-где $\tau=\frac{2L}{R_{\sum}}=\frac{2Q}{\omega_0}$ --- время затухания.\newline
-При резонансе, т.е. когда $\Delta\omega=0$:
-$$I_c(\omega_0)=QI_0, \phi_c(\omega_0)=\frac{\pi}{2}-\frac{R+R_L}{\rho}$$
-$$I_L(\omega_0)=QI_0, \phi_L(\omega_0)=-\frac{\pi}{2}+\delta$$
-$$U(\omega_0)=Q\rho I_0=Q^2R_{\sum}I_0, \phi_U{\omega_0}=-\frac{R+R_L}{\rho}+\delta$$
-$$\phi'_c(\omega_0)=\phi'_L(\omega_0)=\phi'_U(\omega_0)=-\tau$$
+$$I_c=QI_0\frac{\omega}{\omega_0}\frac{e^{i\phi_c}}{\sqrt{1+(\tau\Delta\omega)^2}},    \phi_c=\frac{\pi}{2}-\frac{R+R_L}{\rho}-arctg(\tau\Delta\omega),$$
+$$I_L=QI_0\frac{\omega_0}{\omega}\frac{e^{i\phi_L}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_L=-\frac{\pi}{2}+\delta\arctg(\tau\Delta\omega),$$
+$$U=Q\rho I_0\frac{\omega}{\omega_0}\frac{e^{i\phi_U}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_U=-\frac{\omega}{\omega_0}\frac{R+R_L}{\rho}+\delta-arctg(\tau\Delta\omega),$$
+где $\tau=\frac{2L}{R_{\sum}}=\frac{2Q}{\omega_0}$ --- время затухания.
+
+При резонансе, т. е. когда $\Delta\omega=0$:
+$$I_c(\omega_0)=QI_0, \phi_c(\omega_0)=\frac{\pi}{2}-\frac{R+R_L}{\rho},$$
+$$I_L(\omega_0)=QI_0, \phi_L(\omega_0)=-\frac{\pi}{2}+\delta,$$
+$$U(\omega_0)=Q\rho I_0=Q^2R_{\sum}I_0, \phi_U{\omega_0}=-\frac{R+R_L}{\rho}+\delta,$$
+$$\phi'_c(\omega_0)=\phi'_L(\omega_0)=\phi'_U(\omega_0)=-\tau.$$
   	
 \section{Используемое оборудование}
 
@@ -178,29 +191,33 @@ $$\phi'_c(\omega_0)=\phi'_L(\omega_0)=\phi'_U(\omega_0)=-\tau$$
 \item{} $R_1 = 1008~Ом$
 \end{description}
 
-Результаты измерения резонансных частот для 7 разных конденсаторов и вычисления параметров контура представлены в таб.~\ref{tab1}. Параметры контура вычислим по формулам:
+Получим формулы для вычисления параметров контура:
+\begin{equation}
+\omega_0 = 2\pi f = \frac{1}{\sqrt{L C}} \Rightarrow L = \frac{1}{C(2\pi f)^2},
+\end{equation}
+\begin{equation}
+\rho \triangleq \sqrt{\frac{L}{C}} \Rightarrow \rho = \frac{1}{2\pi fC},
+\end{equation}
+\begin{equation}
+I_0 = \frac{E_0}{R_1} \Rightarrow Z_{\text{рез}} = \frac{U}{I_0} = \frac{U}{E_0}R_1.
+\end{equation}
+Из формул~\eqref{eq:Ic IL U (w)} следует:
+\begin{equation}
+Z_{рез} = Q \rho \Rightarrow Q = \frac{Z_{рез}}{\rho} = \frac{UR_1}{E_0}2\pi fC,
+\end{equation}
+\begin{equation}
+Q = \frac{\rho}{R_{\sum}} \Rightarrow R_{\sum} = \frac{\rho}{Q} = \frac{E_0}{UR_1}\frac{1}{(2\pi fC)^2}.
+\end{equation}
+Из формулы \eqref{eq:Rs} (при максимальном значении $\mathrm{tg}\,\delta = 10^{-3}$) получаем:
+\begin{equation}
+R_{Smax} =10^{-3}\cdot\frac{1}{\omega_0C},
+\end{equation}
+Тогда из формулы \eqref{eq:Rsum} находим:
+\begin{equation}
+R_L = R_{sum} - R - R_S = \frac{E_0}{UR_1}\frac{1}{(2\pi fC)^2}-R-10^{-3}\cdot\frac{1}{\omega_0C}.
+\end{equation}
 
-\begin{equation}
-L=\frac{1}{C(2\pi f)^2} \\
-\end{equation}
-\begin{equation}
-\rho=\frac{1}{2\pi fC} \\
-\end{equation}
-\begin{equation}
-Z_{\text{рез}}=\frac{U}{E_0}R_1
-\end{equation}
-\begin{equation}
-Q=\frac{UR_1}{E_0}2\pi fC
-\end{equation}
-\begin{equation}
-R_{\sum}=\frac{E_0}{UR_1}\frac{1}{(2\pi fC)^2}
-\end{equation}
-\begin{equation}
-R_{Smax}=10^{-3}\cdot\frac{1}{\omega_0C}
-\end{equation}
-\begin{equation}
-R_L=\frac{E_0}{UR_1}\frac{1}{(2\pi fC)^2}-R-10^{-3}\cdot\frac{1}{\omega_0C}
-\end{equation}
+Результаты измерения резонансных частот для 7 разных конденсаторов и вычисления параметров контура представлены в таб.~\ref{tab1}. 
 
 \begin{table}[h!]
 \begin{center}
