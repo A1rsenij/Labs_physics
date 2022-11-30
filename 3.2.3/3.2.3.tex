@@ -152,7 +152,7 @@ R_{\sum}=R+R_L+R_S,
 где $R_{\sum}$ --- суммарное активное сопротивление контура.
 
 Воспользуемся методом комплексных амплитуд:
-$$Z_L=R_L+i\omega L, \quad Z_C=R_S-i\frac{1}{\omega C}, \quad Z=R_{\sum}+i(\omega L-d\dfrac{1}{\omega C}).$$
+$$Z_L=R_L+i\omega L, \quad Z_C=R_S-i\frac{1}{\omega C}, \quad Z=R_{\sum}+i(\omega L-\dfrac{1}{\omega C}).$$
 
 Тогда напряжение на контуре и токи на индуктивной и емкостной частях контура при нулевой начальной фазе можно представить в виде:
 $$I_c=I\dfrac{Z_L}{Z_C+Z_L}=iQI_0\dfrac{\omega}{\omega_0}\dfrac{1-i\dfrac{R+R_L}{\rho}\dfrac{\omega_0}{\omega}}{1+iQ(\dfrac{\omega}{\omega_0}-\dfrac{\omega_0}{\omega})},$$
@@ -163,15 +163,15 @@ $$U=I\frac{Z_LZ_c}{Z_C+Z_L}=Q\rho I_0\frac{(1-i\frac{R+R_L}{\rho}\frac{\omega_0}
 Рассмотрим случай, когда $|\Delta\omega|=|\omega-\omega_0|\ll\omega_0$. Тогда
 $$\frac{\omega}{\omega_0}-\frac{\omega_0}{\omega}=\frac{2\Delta\omega}{\omega_0}.$$
 Пренебрегая поправками порядка $Q^{-2}$, получим:
-$$I_c=QI_0\frac{\omega}{\omega_0}\frac{e^{i\phi_c}}{\sqrt{1+(\tau\Delta\omega)^2}},    \phi_c=\frac{\pi}{2}-\frac{R+R_L}{\rho}-arctg(\tau\Delta\omega),$$
-$$I_L=QI_0\frac{\omega_0}{\omega}\frac{e^{i\phi_L}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_L=-\frac{\pi}{2}+\delta\arctg(\tau\Delta\omega),$$
-$$U=Q\rho I_0\frac{\omega}{\omega_0}\frac{e^{i\phi_U}}{\sqrt{1+(\tau\Delta\omega)^2}}, \phi_U=-\frac{\omega}{\omega_0}\frac{R+R_L}{\rho}+\delta-arctg(\tau\Delta\omega),$$
+$$I_c=QI_0\frac{\omega}{\omega_0}\frac{e^{i\phi_c}}{\sqrt{1+(\tau\Delta\omega)^2}}, \quad \phi_c=\frac{\pi}{2}-\frac{R+R_L}{\rho}-arctg(\tau\Delta\omega),$$
+$$I_L=QI_0\frac{\omega_0}{\omega}\frac{e^{i\phi_L}}{\sqrt{1+(\tau\Delta\omega)^2}}, \quad \phi_L=-\frac{\pi}{2}+\delta\arctg(\tau\Delta\omega),$$
+$$U=Q\rho I_0\frac{\omega}{\omega_0}\frac{e^{i\phi_U}}{\sqrt{1+(\tau\Delta\omega)^2}}, \quad \phi_U=-\frac{\omega}{\omega_0}\frac{R+R_L}{\rho}+\delta-arctg(\tau\Delta\omega),$$
 где $\tau=\frac{2L}{R_{\sum}}=\frac{2Q}{\omega_0}$ --- время затухания.
 
 При резонансе, т. е. когда $\Delta\omega=0$:
-$$I_c(\omega_0)=QI_0, \phi_c(\omega_0)=\frac{\pi}{2}-\frac{R+R_L}{\rho},$$
-$$I_L(\omega_0)=QI_0, \phi_L(\omega_0)=-\frac{\pi}{2}+\delta,$$
-$$U(\omega_0)=Q\rho I_0=Q^2R_{\sum}I_0, \phi_U{\omega_0}=-\frac{R+R_L}{\rho}+\delta,$$
+$$I_c(\omega_0)=QI_0, \quad \phi_c(\omega_0)=\frac{\pi}{2}-\frac{R+R_L}{\rho},$$
+$$I_L(\omega_0)=QI_0, \quad \phi_L(\omega_0)=-\frac{\pi}{2}+\delta,$$
+$$U(\omega_0)=Q\rho I_0=Q^2R_{\sum}I_0, \quad \phi_U{\omega_0}=-\frac{R+R_L}{\rho}+\delta,$$
 $$\phi'_c(\omega_0)=\phi'_L(\omega_0)=\phi'_U(\omega_0)=-\tau.$$
   	
 \section{Используемое оборудование}
@@ -223,7 +223,7 @@ R_L = R_{sum} - R - R_S = \frac{E_0}{UR_1}\frac{1}{(2\pi fC)^2}-R-10^{-3}\cdot\f
 \begin{center}
 \begin{tabular}{|cccc|c|c|c|c|c|c|c|}
 \hline
-\multicolumn{1}{|c|}{$С, нФ$} & \multicolumn{1}{c|}{$f, кГц$} & \multicolumn{1}{c|}{$U, B$}  & $E, B$  & $L, мкГн$ & $\rho, Ом$ & $|Z_{рез}|, Ом$ & $Q$  & $R_{sum}, Ом$ & $R_{S_{max}}, Ом$ & $R_L, Ом$ \\ \hline
+\multicolumn{1}{|c|}{$С, нФ$} & \multicolumn{1}{c|}{$f, кГц$} & \multicolumn{1}{c|}{$U, B$}  & $E, B$  & $L, мкГн$ & $\rho, Ом$ & $|Z_{рез}|, Ом$ & $Q$  & $R_{\sum}, Ом$ & $R_{S_{max}}, Ом$ & $R_L, Ом$ \\ \hline
 \multicolumn{1}{|c|}{25,1}  & \multicolumn{1}{c|}{32,12}  & \multicolumn{1}{c|}{1,190} & 0,202 & 978,2   & 197,4   & 5938,2     & 30 & 6,56     & 0,20      & 2,87     \\ \hline
 \multicolumn{1}{|c|}{33,2}  & \multicolumn{1}{c|}{27,79}  & \multicolumn{1}{c|}{0,790} & 0,202 & 987,9   & 172,5   & 3942,2     & 23 & 7,55     & 0,17      & 3,88     \\ \hline
 \multicolumn{1}{|c|}{47,3}  & \multicolumn{1}{c|}{23,16}  & \multicolumn{1}{c|}{0,670} & 0,202 & 998,4   & 145,3   & 3343,4     & 23 & 6,31     & 0,15      & 2,67     \\ \hline

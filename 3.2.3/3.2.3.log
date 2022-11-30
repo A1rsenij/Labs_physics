@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.17)  29 NOV 2022 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.17)  30 NOV 2022 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1330,7 +1330,7 @@ Package mathtext Warning: letter `CYRO' used in math mode on input line 226.
 Package mathtext Warning: letter `cyrm' used in math mode on input line 226.
 
 
-Overfull \hbox (44.82655pt too wide) in paragraph at lines 224--237
+Overfull \hbox (37.42833pt too wide) in paragraph at lines 224--237
  [] 
  []
 
@@ -1608,7 +1608,7 @@ Package rerunfilecheck Info: File `3.2.3.out' has not changed.
 Here is how much of TeX's memory you used:
  23923 strings out of 475385
  454024 string characters out of 2766014
- 782356 words of memory out of 3000000
+ 783356 words of memory out of 3000000
  44815 multiletter control sequences out of 15000+600000
  483602 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1643,7 +1643,7 @@ msfonts/cm/cmsy10.pfb><C:/Users/Арсений В Гисич/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Арсений �
 � Гисич/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/
 msam10.pfb>
-Output written on 3.2.3.pdf (12 pages, 1653851 bytes).
+Output written on 3.2.3.pdf (12 pages, 1653850 bytes).
 PDF statistics:
  432 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
