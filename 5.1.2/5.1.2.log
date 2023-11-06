@@ -1,34 +1,35 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.26)  5 NOV 2023 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.6)  6 NOV 2023 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./5.1.2.tex
 (5.1.2.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-03-30>
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\size12.clo
-File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 hyperref\hyperref.sty
-Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+Package: hyperref 2023-10-27 v7.01d Hypertext links for LaTeX
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/ltxcmds\ltxcmds.sty
@@ -54,7 +55,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 kvsetkeys\kvsetkeys.sty
@@ -82,7 +83,7 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-10-05 v2.54 Cross-referencing by name of section
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 refcount\refcount.sty
@@ -96,15 +97,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count193
+\c@section@level=\count194
+)
+(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
+etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
 )
 \@linkdim=\dimen141
-\Hy@linkcounter=\count194
-\Hy@pagecounter=\count195
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 hyperref\pd1enc.def
-File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-10-27 v7.01d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -112,33 +118,29 @@ Now handling font encoding PD1 ...
 c/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
-c/etexcmds\etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count196
+\Hy@SavedSpaceFactor=\count198
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 hyperref\puenc.def
-File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-10-27 v7.01d Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4177.
-Package hyperref Info: Link nesting OFF on input line 4182.
-Package hyperref Info: Hyper index ON on input line 4185.
-Package hyperref Info: Plain pages OFF on input line 4192.
-Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Hyper figures OFF on input line 4168.
+Package hyperref Info: Link nesting OFF on input line 4173.
+Package hyperref Info: Hyper index ON on input line 4176.
+Package hyperref Info: Plain pages OFF on input line 4183.
+Package hyperref Info: Backreferencing OFF on input line 4188.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count197
+Package hyperref Info: Bookmarks ON on input line 4435.
+\c@Hy@tempcnt=\count199
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
+LaTeX Info: Redefining \url on input line 4773.
 \XeTeXLinkMargin=\dimen142
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
@@ -150,31 +152,31 @@ c/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count198
+\Fld@menulength=\count266
 \Field@Width=\dimen143
 \Fld@charsize=\dimen144
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
+Package hyperref Info: Hyper figures OFF on input line 6052.
+Package hyperref Info: Link nesting OFF on input line 6057.
+Package hyperref Info: Hyper index ON on input line 6060.
+Package hyperref Info: backreferencing OFF on input line 6067.
+Package hyperref Info: Link coloring OFF on input line 6072.
+Package hyperref Info: Link coloring with OCG OFF on input line 6077.
+Package hyperref Info: PDF/A mode OFF on input line 6082.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count199
-\c@Item=\count266
-\c@Hfootnote=\count267
+\Hy@abspage=\count267
+\c@Item=\count268
+\c@Hfootnote=\count269
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 hyperref\hpdftex.def
-File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+File: hpdftex.def 2023-10-27 v7.01d Hyperref driver for pdfTeX
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\atveryend-ltx.sty
@@ -182,8 +184,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count268
-\c@bookmark@seq@number=\count269
+\Fld@listcount=\count270
+\c@bookmark@seq@number=\count271
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 rerunfilecheck\rerunfilecheck.sty
@@ -206,8 +208,8 @@ LaTeX Info: Redefining \halign on input line 119.
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\fontenc.sty
@@ -432,15 +434,15 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/babel\babel.sty
-Package: babel 2023/03/28 3.87 The Babel package
-\babel@savecnt=\count270
+Package: babel 2023/10/25 v3.96 The Babel package
+\babel@savecnt=\count272
 \U@D=\dimen145
 \l@unhyphenated=\language79
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count271
+\bbl@dirlevel=\count273
 
 *************************************
 * Local config file bblopts.cfg used
@@ -482,24 +484,24 @@ Package babel Info: Importing font and identification data for english
 multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip51
-\multirow@cntb=\count272
+\multirow@cntb=\count274
 \multirow@dima=\skip52
 \bigstrutjot=\dimen146
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count273
-\float@exts=\toks19
+\c@float@type=\count275
+\float@exts=\toks20
 \float@box=\box51
-\@float@everytoks=\toks20
+\@float@everytoks=\toks21
 \@floatcapt=\box52
 )
-\@float@every@table=\toks21
+\@float@every@table=\toks22
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 amsmath\amsmath.sty
-Package: amsmath 2022/04/08 v2.17n AMS math features
+Package: amsmath 2023/05/13 v2.17o AMS math features
 \@mathmargin=\skip53
 
 For additional information on amsmath, use the `?' option.
@@ -511,7 +513,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks23
 \ex@=\dimen147
 ))
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
@@ -523,14 +525,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count274
+\inf@bad=\count276
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count275
-\leftroot@=\count276
+\uproot@=\count277
+\leftroot@=\count278
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count277
-\DOTSCASE@=\count278
+\classnum@=\count279
+\DOTSCASE@=\count280
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -545,31 +547,31 @@ LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 \symOMLletters=\mathgroup5
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \symOMSletters=\mathgroup6
-\macc@depth=\count279
+\macc@depth=\count281
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count280
+\c@MaxMatrixCols=\count282
 \dotsspace@=\muskip17
-\c@parentequation=\count281
-\dspbrk@lvl=\count282
-\tag@help=\toks23
-\row@=\count283
-\column@=\count284
-\maxfields@=\count285
-\andhelp@=\toks24
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks24
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks25
 \eqnshift@=\dimen150
 \alignsep@=\dimen151
 \tagshift@=\dimen152
 \tagwidth@=\dimen153
 \totwidth@=\dimen154
 \lineht@=\dimen155
-\@envbody=\toks25
+\@envbody=\toks26
 \multlinegap=\skip54
 \multlinetaggap=\skip55
-\mathdisplay@stack=\toks26
+\mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -589,15 +591,15 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks27
-\thm@bodyfont=\toks28
-\thm@headfont=\toks29
-\thm@notefont=\toks30
-\thm@headpunct=\toks31
+\thm@style=\toks28
+\thm@bodyfont=\toks29
+\thm@headfont=\toks30
+\thm@notefont=\toks31
+\thm@headpunct=\toks32
 \thm@preskip=\skip56
 \thm@postskip=\skip57
 \thm@headsep=\skip58
-\dth@everypar=\toks32
+\dth@everypar=\toks33
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 mathtools\mathtools.sty
@@ -605,23 +607,23 @@ Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 tools\calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count286
-\calc@Bcount=\count287
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count288
+\calc@Bcount=\count289
 \calc@Adimen=\dimen156
 \calc@Bdimen=\dimen157
 \calc@Askip=\skip59
 \calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count288
+\calc@Ccount=\count290
 \calc@Cskip=\skip61
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 mathtools\mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count289
+\g_MT_multlinerow_int=\count291
 \l_MT_multwidth_dim=\dimen158
 \origjot=\skip62
 \l_MT_shortvdotswithinadjustabove_dim=\dimen159
@@ -635,7 +637,7 @@ Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 tools\indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
 LaTeX Font Info:    Redeclaring symbol font `T2Aletters' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `T2Aletters' in version `normal'
@@ -666,9 +668,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 c/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count290
-\Gm@cntv=\count291
-\c@Gm@tempcnt=\count292
+\Gm@cnth=\count292
+\Gm@cntv=\count293
+\c@Gm@tempcnt=\count294
 \Gm@bindingoffset=\dimen166
 \Gm@wd@mp=\dimen167
 \Gm@odd@mp=\dimen168
@@ -677,7 +679,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen171
 \Gm@layouthoffset=\dimen172
 \Gm@layoutvoffset=\dimen173
-\Gm@dimlist=\toks33
+\Gm@dimlist=\toks34
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 geometry\geometry.cfg))
@@ -710,9 +712,9 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 wrapfig\wrapfig.sty
 \wrapoverhang=\dimen176
 \WF@size=\dimen177
-\c@WF@wrappedlines=\count293
+\c@WF@wrappedlines=\count295
 \WF@box=\box56
-\WF@everypar=\toks34
+\WF@everypar=\toks35
 Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
@@ -747,7 +749,7 @@ pgf/basiclayer\pgf.sty
 pgf/utilities\pgfrcs.sty
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks35
+\pgfutil@everybye=\toks36
 \pgfutil@tempdima=\dimen178
 \pgfutil@tempdimb=\dimen179
 )
@@ -773,12 +775,12 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks36
-\pgfkeys@temptoks=\toks37
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks38
+\pgfkeys@tmptoks=\toks39
 ))
 \pgf@x=\dimen180
 \pgf@y=\dimen181
@@ -792,14 +794,14 @@ c/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgf@yd=\dimen189
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count294
-\c@pgf@countb=\count295
-\c@pgf@countc=\count296
-\c@pgf@countd=\count297
-\t@pgf@toka=\toks39
-\t@pgf@tokb=\toks40
-\t@pgf@tokc=\toks41
-\pgf@sys@id@count=\count298
+\c@pgf@counta=\count296
+\c@pgf@countb=\count297
+\c@pgf@countc=\count298
+\c@pgf@countd=\count299
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count300
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/systemlayer\pgf.cfg
@@ -818,8 +820,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count299
-\pgfsyssoftpath@bigbuffer@items=\count300
+\pgfsyssoftpath@smallbuffer@items=\count301
+\pgfsyssoftpath@bigbuffer@items=\count302
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/systemlayer\pgfsysprotocol.code.tex
@@ -836,11 +838,11 @@ c/pgf/math\pgfmathutil.code.tex)
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen190
-\pgfmath@count=\count301
+\pgfmath@count=\count303
 \pgfmath@box=\box58
-\pgfmath@toks=\toks42
-\pgfmath@stack@operand=\toks43
-\pgfmath@stack@operation=\toks44
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/math\pgfmathfunctions.code.tex)
@@ -864,7 +866,7 @@ c/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)
 c/pgf/math\pgfmathcalc.code.tex)
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count302
+\c@pgfmathroundto@lastzeros=\count304
 ))
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/math\pgfint.code.tex)
@@ -904,7 +906,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box59
 \pgf@hbox=\box60
 \pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count303
+\pgf@picture@serial@count=\count305
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/basiclayer\pgfcoregraphicstate.code.tex
@@ -939,8 +941,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 c/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen270
-\pgf@sys@shading@range@num=\count304
-\pgf@shadingcount=\count305
+\pgf@sys@shading@range@num=\count306
+\pgf@shadingcount=\count307
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/basiclayer\pgfcoreimage.code.tex
@@ -1001,8 +1003,8 @@ c/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen273
 \pgffor@skip=\dimen274
-\pgffor@stack=\toks45
-\pgffor@toks=\toks46
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
 ))
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/frontendlayer/tikz\tikz.code.tex
@@ -1011,7 +1013,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count306
+\pgf@plot@mark@count=\count308
 \pgfplotmarksize=\dimen275
 )
 \tikz@lastx=\dimen276
@@ -1026,19 +1028,19 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box65
 \tikz@tempbox=\box66
 \tikz@tempbox@bg=\box67
-\tikztreelevel=\count307
-\tikznumberofchildren=\count308
-\tikznumberofcurrentchild=\count309
-\tikz@fig@count=\count310
+\tikztreelevel=\count309
+\tikznumberofchildren=\count310
+\tikznumberofcurrentchild=\count311
+\tikz@fig@count=\count312
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count311
-\pgfmatrixcurrentcolumn=\count312
-\pgf@matrix@numberofcolumns=\count313
+\pgfmatrixcurrentrow=\count313
+\pgfmatrixcurrentcolumn=\count314
+\pgf@matrix@numberofcolumns=\count315
 )
-\tikz@expandcount=\count314
+\tikz@expandcount=\count316
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/generi
 c/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
@@ -1046,8 +1048,8 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count315
+File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count317
 \l__pdf_internal_box=\box68
 ) (5.1.2.aux)
 \openout1 = `5.1.2.aux'.
@@ -1128,17 +1130,17 @@ Package gensymb Warning: Not defining \micro.
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/contex
 t/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
+\scratchcounter=\count318
 \scratchdimen=\dimen284
 \scratchbox=\box69
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count319
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count321
 \MPscratchDim=\dimen285
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks48
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks49
 )
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 epstopdf-pkg\epstopdf-base.sty
@@ -1155,7 +1157,7 @@ LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\omlcmr.fd
-File: omlcmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
@@ -1172,7 +1174,7 @@ LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
 
 (C:\Users\Арсений В Гисич\AppData\Local\Programs\MiKTeX\tex/latex/
 base\omscmr.fd
-File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
@@ -1377,7 +1379,7 @@ Package mathtext Warning: letter `cyrerev' used in math mode on input line 223.
 Package mathtext Warning: letter `CYRV' used in math mode on input line 223.
 
 
-Package mathtext Warning: letter `cyrk' used in math mode on input line 225.
+Package mathtext Warning: letter `CYRM' used in math mode on input line 225.
 
 
 Package mathtext Warning: letter `cyrerev' used in math mode on input line 225.
@@ -1412,7 +1414,7 @@ as been already used, duplicate ignored
 l.228 \newpage
                <./100.jpg> <./110.jpg> <./120.jpg> <./tab.jpg>]
 
-Package mathtext Warning: letter `cyrk' used in math mode on input line 234.
+Package mathtext Warning: letter `CYRM' used in math mode on input line 234.
 
 
 Package mathtext Warning: letter `cyrerev' used in math mode on input line 234.
@@ -1428,6 +1430,11 @@ as been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.238 \end{document}
                      <./plot.png>] (5.1.2.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+ ***********
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1435,13 +1442,13 @@ Package rerunfilecheck Info: File `5.1.2.out' has not changed.
 (rerunfilecheck)             Checksum: E1D727D6B5BF23AB10B09CB540E767B5;1410.
  ) 
 Here is how much of TeX's memory you used:
- 23886 strings out of 476331
- 451978 string characters out of 5776873
- 1862660 words of memory out of 5000000
- 43840 multiletter control sequences out of 15000+600000
- 523277 words of font info for 60 fonts, out of 8000000 for 9000
+ 24122 strings out of 474591
+ 451217 string characters out of 5734886
+ 1936533 words of memory out of 5000000
+ 45840 multiletter control sequences out of 15000+600000
+ 569059 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,8n,80p,1246b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,8n,87p,1246b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Арсений В Гисич\AppData\Local\MiKTeX\fonts/pk/ljfour/
 lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Арсений В Гисич\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Арсени
@@ -1460,9 +1467,9 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Арсений
 10.pfb><C:/Users/Арсений В Гисич/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Арсений В Гисич/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 5.1.2.pdf (7 pages, 4992226 bytes).
+Output written on 5.1.2.pdf (7 pages, 4992778 bytes).
 PDF statistics:
- 343 PDF objects out of 1000 (max. 8388607)
+ 344 PDF objects out of 1000 (max. 8388607)
  34 named destinations out of 1000 (max. 500000)
  141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
